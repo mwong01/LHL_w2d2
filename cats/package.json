@@ -1,0 +1,17 @@
+{
+  "name": "cats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asyncBreeds.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
