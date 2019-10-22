@@ -17,11 +17,11 @@ setTimeout(() => {
 }, 3000);
 
 
-// let str = "4311o th3r3 w0r1d";
-// let arr = str.split(" ");
+let str = "4311o th3r3 w0r1d";
+let arr = str.split(" ");
 
-// for (word in arr) {
-// }
-// setTimeout(() => {
-//   console.log(arr[word]);
-// }, word * 1000);
+for (let word of arr) {
+}
+setTimeout(() => {
+  console.log(word + "\n");
+}, 1000);
